@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm SAJAL KUMAR SINGH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajalsas" alt="sajalsas" /></a> </p>
+
 - 🌱 I’m currently learning **React JS**
 
 - 📫 How to reach me **sajalsas@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sajal-kumar-singh-794aa1228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.sajal-kumar-singh-794aa1228" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sajal-kumar-singh-794aa1228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sajal-kumar-singh-794aa1228/" height="30" width="40" /></a>
 <a href="https://instagram.com/sajalsas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajalsas" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sajalsas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sajalsas" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sajalsas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sajalsas" height="30" width="40" /></a>
