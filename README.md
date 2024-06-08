@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner]([Make your README.png](https://github.com/sajalsas/sajalsas/blob/cbd2e65021791c458dab247fde537ebdccf44914/Make%20your%20README.png))
+![Sajal Banner](https://github.com/sajalsas/sajalsas/blob/cbd2e65021791c458dab247fde537ebdccf44914/Make%20your%20README.png))
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
