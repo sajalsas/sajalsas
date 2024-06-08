@@ -1,6 +1,6 @@
 ![Sajal Banner](https://github.com/sajalsas/sajalsas/blob/cbd2e65021791c458dab247fde537ebdccf44914/Make%20your%20README.png)
 
-<img alt="Night Coding" src="./Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Sajal</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Sajal -->
 
