@@ -14,7 +14,7 @@
 ✉️ &nbsp;You can shoot me an email at sajalsas@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1wF9oOMl_0ZRJMKpSsq7-hshZs4MJXMZw/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://github.com/sajalsas/sajalsas/blob/b5f8ecdce7da27bcabc16e4b76f8d048517ea21b/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
