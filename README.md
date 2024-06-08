@@ -1,6 +1,6 @@
 ![Sajal Banner](https://github.com/sajalsas/sajalsas/blob/cbd2e65021791c458dab247fde537ebdccf44914/Make%20your%20README.png)
 
-<img alt="Night Coding" src="./Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Sajal</h2>
+<img alt="Night Coding" src="./Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Sajal Kumar Singh</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Sajal -->
 
@@ -50,9 +50,10 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
-<a href="https://www.linkedin.com/in/sajal-kumar-singh-794aa1228/"><img src="https://img.shields.io/badge/-Sajal%20Kumar%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="sajalsas@gmail.com"><img src="https://img.shields.io/badge/-sajalsas@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/sajalsas"><img src="https://img.shields.io/badge/-@sajalsas_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/sajalsas"><img src="https://img.shields.io/badge/-@sajalsas-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sajal-kumar-singh-794aa1228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sajal-kumar-singh-794aa1228/" height="30" width="40" /></a>
+<a href="https://instagram.com/sajalsas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajalsas" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sajalsas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sajalsas" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sajalsas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sajalsas" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sajalsas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sajalsas" height="30" width="40" /></a>
 </p>
