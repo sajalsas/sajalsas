@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at the University of MNIT Jaipur.\
+🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at MNIT Jaipur.\
 🌱 &nbsp;I'm on track for learning more about Web Development.\
 ✍️ &nbsp;In my free time, I pursue Gaming and playing Table Tennis as hobbies.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
